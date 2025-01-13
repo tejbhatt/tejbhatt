@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **ReactJs,Micro-Services,Nextjs,Nestjs**
 
-- 💬 Ask me about **Javascript,node,react**
+- 💬 Ask me about **Javascript,node,react,algo-trading,stoic philosophy happy to engage in a convo with you**
 
 - 📫 How to reach me **tejbhatt98@gmail.com**
 
-- ⚡ Fun fact **About 75% of your brain is made of water. Your heart beats about 115,000 times a day. Jupiter is the fastest spinning planet in the solar system. The nearest star to Earth is 4.2 light-years away.**
+- ⚡ Epictetus-How long are you going to wait before you demand the best for yourself?.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
