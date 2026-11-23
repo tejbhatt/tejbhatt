@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Thane, Maharashtra, India &nbsp;·&nbsp;
+  📍 Mumbai, Maharashtra, India &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/tejbhatt20/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:tejbhatt98@gmail.com">Email</a>
 </p>
